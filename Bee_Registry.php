@@ -2,8 +2,8 @@
 /**
  * A Registry pattern used to recieve singleton instance of any object
  *
- * @author Hasan Hameed <hasanhameed89@gmail.com>
- * @see https://github.com/hasanhameed89/bee-php-registry
+ * @author Hasan Hameed <hasan.hameed07@gmail.com>
+ * @see https://github.com/hasanhameed07/bee-php-registry
  */
 class Bee_Registry
 {
