@@ -31,4 +31,4 @@ if (Registry::has('Foo'))
 	// do something
 ```
 
-Origin Author: Hasan Hameed <hasanhameed89@gmail.com>
+Origin Author: Hasan Hameed <hasan.hameed07@gmail.com>
